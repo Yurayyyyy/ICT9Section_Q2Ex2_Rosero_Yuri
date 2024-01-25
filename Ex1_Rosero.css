@@ -1,0 +1,21 @@
+h1 { text-align: center;
+	background-color: black;
+	color: white;
+	width: 97%;
+	padding: 20px;
+	border-style: dashed;
+	border-width: thick;
+	border-color: white;
+}
+
+h2 { text-align: center;}
+body {background-color: lightskyblue;}
+
+#p {
+display: inline-block;
+
+
+
+
+
+}
